@@ -1,10 +1,11 @@
 <!--
-Signoj kaj mallongigoj: „“ _vorto [IPA]_ **neologismo**
+Signoj kaj mallongigoj: „“ **neologismo** _etimologio:_ vorto [esperanta prononco]
 -->
 
 # Neologismoj
 
 Vortoj esperantaj, kiuj estas novaj en Esperanto, el iu malsama lingvo aŭ kreitaj.
 
-- **amajto** kora paco; etimologio: el la tamillingva vorto _அமைதி [amaidi]_, kiu signifas „paco“
-- **mojosa** io, kio estas tre amuzata; etimologio: _**mo**derna **j**una **s**tilo_
+- **amajto** kora paco; _etimologio:_ el la tamillingva vorto அமைதி [amajdi], kiu signifas „paco“
+- **mojosa** io, kio estas tre amuzata; _etimologio:_ el esperanta frazeto **mo**derna **j**una **s**tilo
+- **ĉeklisto** listo de iaj taskoj; _etimologio:_ el la angla vorto checklist [ĉek list]; _uzebla:_ ekzemple je GitHubo kaj inter programistoj ktp.
