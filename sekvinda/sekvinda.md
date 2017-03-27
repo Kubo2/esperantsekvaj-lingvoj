@@ -1,4 +1,4 @@
-# Lingvo _Sekvinda_
+# _Sekvinda_ lingvo
 
 _Tiu ĉi teksto estas en moderna esperanto._
 

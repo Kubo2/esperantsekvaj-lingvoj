@@ -1,4 +1,4 @@
-# Lingvo _Esperanto_
+# _Esperanto_ lingvo
 
 _Tiu ĉi teksto estas en moderna esperanto._
 
