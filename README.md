@@ -9,10 +9,10 @@ Esperantistoj povos tiel preni kelkajn novajn aferojn el lingvoj el la sama ling
 
 ## Nunaj sekcioj de la retejo
 
-* [Esperanto mem](/esperanto/esperanto)
-  * [Sinonima vortareto](/esperanto/sinonimoj)
-  * [Neologisma vortareto](/esperanto/neologismoj)
-* [Sekvinda lingvo](/sekvinda/sekvinda)
+* [Esperanto mem](esperanto/esperanto)
+  * [Sinonima vortareto](esperanto/sinonimoj)
+  * [Neologisma vortareto](esperanto/neologismoj)
+* [Sekvinda lingvo](sekvinda/sekvinda)
 * Reforma priskribo (venonta)
 
 
