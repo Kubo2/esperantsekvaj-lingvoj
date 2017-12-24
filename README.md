@@ -1,13 +1,19 @@
 # Esperanto kaj esperantsekvaj lingvoj
 
+Mi estas lingvamanto, do mi tre ŝatas ĉion pri lingvoj: lingvecon, gramatikon, sonojn, ktp. Mi multe ekinteresiĝis pri esperanto dum mia interŝanga unujara vivado en Barato, kie mi ankaŭ multege ekinteresiĝis pri la tamila. La tamila estas lingvo, kiun oni parolas en Tamil-Naduo, unu el la Sud-Barataj ŝtatoj. Postete, post mia reveno al mia hejmlando, Slovakujo, mi decidis, ke mi volas krei memfaritan lingvon. Mi serĉadis multe pri lingveco kaj artefaritaj lingvoj, ĝis kiam mi trovis [ion](http://www.zompist.com/kit.html) (angle).
 
-## Pri kio estas tiu ĉi retejo
+Ĉi tiu retejo priskribos kelkajn miajn ideojn, kiel esperanto povus pliboniĝi, sed maltradicie: estos ĉi tie priskribataj du lingvoj, por kiuj esperanto estos la proto-lingvo (aŭ pralingvo?) kaj ili estos ŝanĝontaj de kelkajn certajn aferojn en la gramatiko (ĝenerale).
 
-Mi estas lingvamulo, do mi tre ŝatas ĉion pri lingvoj, lingvecon, gramatikon kaj tiel plu. Mi multe interesiĝis pri esperanto dum mia interŝanga jarvivo en Barato, kie mi ankaŭ tiom multe interesiĝis pri la tamila, lingvo, kiun oni parolas en Tamil-Naduo, unu el la Sud-Barataj ŝtatoj. Postete, post mia reveno al mia hejmlando, Slovakio, mi decidis, ke mi volas krei unu lingvon mem. Mi serĉis multe pri lingveco kaj kreitaj lingvoj, ĝis kiam mi trovis [ion (angle)](http://www.zompist.com/kit.html).
+Esperantistoj povos tiel preni kelkajn novajn aferojn el lingvoj el la sama lingvaro.
 
-Ĉi tiu retejo parolos pri kelkaj miaj ideoj, kiel esperanto povus pliboniĝi, sed maltradicie: estos ĉi tie priskribataj du lingvoj, por kiuj esperanto estos la proto-lingvo (aŭ pralingvo?) kaj ili estos ŝanĝonta de kelkaj certaj aferoj en la gramatiko (ĝenerale).
 
-Esperantistoj poste povos derivi/preni kelkajn novajn aferojn el lingvoj similegaj venantaj el la "sama lingvaro".
+## Nunaj sekcioj de la retejo
+
+* [Esperanto mem](/esperanto/esperanto)
+  * [Sinonima vortareto](/esperanto/sinonimoj)
+  * [Neologisma vortareto](/esperanto/neologismoj)
+* [Sekvinda lingvo](/sekvinda/sekvinda)
+* Reforma priskribo (venonta)
 
 
 ## Mi havas demandojn aŭ ion volas korekti
