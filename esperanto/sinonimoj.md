@@ -1,5 +1,6 @@
 # Sinonimoj
 
-Vortoj esperantaj, kiuj havas la saman signifon de aliaj vortoj.
+Vortoj esperantaj, kiuj havas la saman signifon kiel aliaj vortoj.
 
-- **fenestro**: travideblejo
+- **fenestro**: travideblejo, travideblilo
+- **fremdlingvo**: alia lingvo, alilingvo
