@@ -1,5 +1,7 @@
 # Esperanto kaj esperantsekvaj lingvoj
 
+„Esperanto ŝanĝas kaj ŝanĝos.“ Kvankam ni necesas preskribajn regulojn de la Fundamento por lerni esperanton kaj interkompreniĝi, tamen ni devas ne forgesadi, ke estas neeble kontraŭi ŝanĝadon de lingvo, kiu vivas. Laŭ tio klaras, ke ni bezonas ankaŭ gramatikon, kiu priskribus la regulojn, laŭ kiuj oni vere uzas esperanton en la mondo. Tion celas tiu ĉi retejo _Moderna Esperanto: Priskriba Gramatiko de Esperanto_.
+
 Mi estas lingvamanto, do mi tre ŝatas ĉion pri lingvoj: lingvecon, gramatikon, sonojn, ktp. Mi multe ekinteresiĝis pri esperanto dum mia interŝanga unujara vivado en Barato, kie mi ankaŭ multege ekinteresiĝis pri la tamila. La tamila estas lingvo, kiun oni parolas en Tamil-Naduo, unu el la Sud-Barataj ŝtatoj. Postete, post mia reveno al mia hejmlando, Slovakujo, mi decidis, ke mi volas krei memfaritan lingvon. Mi serĉadis multe pri lingveco kaj artefaritaj lingvoj, ĝis kiam mi trovis [ion](http://www.zompist.com/kit.html) (angle).
 
 Ĉi tiu retejo priskribos kelkajn miajn ideojn, kiel esperanto povus pliboniĝi, sed maltradicie: estos ĉi tie priskribataj du lingvoj, por kiuj esperanto estos la proto-lingvo (aŭ pralingvo?) kaj ili estos ŝanĝontaj de kelkajn certajn aferojn en la gramatiko (ĝenerale).
