@@ -1,15 +1,16 @@
-# _Esperanto_ lingvo
+# _Esperanta_ lingvo
 
 _Tiu ĉi teksto estas en moderna esperanto._
 
-Esperanto estas la internacia lingvo, kiun vi jam parolas. Ĉi tiu retpaĝo estos pri la gramatiko de Esperanto, tiel detale kiel eblas skribi por mi.
+Esperanto estas la internacia lingvo, kiun vi jam parolas. Ĉi tiu retpaĝo estos pri la _priskriba_ gramatiko de Esperanto, tiel detale kiel eblos skribi por mi.
 
 
 # Gramatiko
 
-Legu pri la esperanta gramatiko [en PMEG je la retejo de Bertilo](http://bertilow.com/pmeg/enhavo.html).
+Legu la preskriban esperantan gramatikon [en PMEG je la retejo de Bertilo](http://bertilow.com/pmeg/enhavo.html).
 
-(Priskribo de esperanta gramatiko ne jam pretas, sed estos skribata paŝon post paŝo.)
+La priskriba gramatiko de Esperanto ne jam pretas.
+
 
 ## Vortaro
 
