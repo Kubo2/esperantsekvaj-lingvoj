@@ -10,6 +10,8 @@ Sekvinda estas lingvo, kiu ne jam ŝanĝis tro multe da aferoj kiujn ĝi heredis
 - supre priskribitaj _ino_, _iĉo_ kaj _viro_, _virino_ kaj _viriĉo_
 - pronomoj _mi_ kaj _ni_ fandiĝis en solan pronomon _mi_ signifanta mi kaj ni ambaŭ
 - la superlativoj de adjektivoj fariĝis solvortaj (per la nova superlativa prefikso _plej-_): _bona_, _pli bona_, _plejbona_
+- rolvortetoj finiĝantaj per vokalo (je, de, da, ĉe, tra, po, pri, pro, _na_) konektiĝas kun la difina artikolo la (jel, del, dal, ĉel, tral, pol, pril, prol, _nal_)
+
 
 ## Gramatiko
 
